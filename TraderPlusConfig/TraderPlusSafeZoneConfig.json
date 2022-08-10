@@ -1,0 +1,32 @@
+{
+    "Version": "2.3",
+    "IsHideOutActive": 0,
+    "EnableAfkDisconnect": 0,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "YOU HAVE ENTERED THE SAFEZONE!",
+    "MsgExitZone": "YOU HAVE LEFT THE SAFEZONE!",
+    "MsgOnLeavingZone": "LEAVING ZONE IN:",
+    "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Trader",
+            "X": 3711.76,
+            "Y": 5979.47,
+            "Radius": 150.0,
+            "Countdown": 30
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198047475651",
+        "76561198047123456"
+    ],
+    "BlackListedItemInStash": [
+        "Apple",
+        "Plum",
+        "Plier"
+    ]
+}
